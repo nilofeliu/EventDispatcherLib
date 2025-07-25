@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2025 nilofeliu
+Copyright (c) 2025 Nilo Martinez Jr
+
+EventDispatcherLib - Lightweight C# Event Dispatcher with Dead Letter Queue
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +11,9 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The Software is provided in pre-alpha state (0.1.0-alpha) - use at your own risk
+2. Any modifications must be clearly documented as derivatives
+3. This license and copyright notice must be included in all copies or substantial portions
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
